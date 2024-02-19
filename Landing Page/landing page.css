@@ -1,0 +1,68 @@
+body {
+  
+    text-align: center;
+      font-size: 200%;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      background-image: linear-gradient(rgb(39, 107, 216),rgb(41, 237, 119));
+      
+  }
+  header{
+    background-color: rgb(12, 1, 1);
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  }
+  
+  .container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      flex-direction: row-reverse;
+  }
+  
+  .item {
+      border: 2px solid brown;
+      padding: 20px;
+      margin: 20px;
+      text-align: center;
+      text-decoration: none;
+      max-width: 250px;
+  }
+  img{
+    max-width: 150px;
+    max-height: 150px;
+  }
+  
+  .title {
+      color: #333;
+      font-size: 20px;
+      text-decoration: none; 
+  }
+  
+  .item img {
+      max-width: 250px;
+      height: auto;
+      width: auto;
+  }
+  
+  button {
+      background-color: orange;
+      color: white;
+      padding: 10px;
+      cursor: pointer;
+      font-size: 14px;
+  }
+  
+  
+  .text {
+      margin-left: auto;
+      font-size: 20px;
+      text-decoration: none; 
+  }
+  
+  .price {
+      font-family: bold;
+      text-decoration: none;
+      font-size: 20px;
+  }
+  .button:hover{
+    color:back;
+  }

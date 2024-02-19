@@ -1,0 +1,63 @@
+.a{
+                
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    font-style:italic;
+    font-size: x-large;
+   
+}
+tr{
+    align-items: center;
+    text-align: center;
+}
+
+.j{
+    background-color:violet;
+    
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+header{
+    background-color:violet;
+    color: white;
+    text-align: center;
+    
+}
+.r{
+    background-color:antiquewhite;
+}
+img{
+    border-width:3px;
+    border-color: black;
+    border-style: solid;
+   
+    
+}
+
+table{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+ 
+    font-size: larger;
+    font-weight: bold ;
+}
+p{
+    font-stretch: expanded;
+    font-size: larger;
+}
+footer{
+    background-color: darkgrey;
+    text-align: center;
+    padding: 3px;
+    position: sticky;
+}
+button{
+    text-decoration-thickness: 3px;
+    text-decoration: solid;
+}
+e{
+    background-color: aquamarine;
+}
